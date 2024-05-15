@@ -57,7 +57,6 @@ const submit = () => {
             <input type="checkbox" />
             <label class="text-black ml-2">Remember Me</label>
           </div>
-          <div></div>
         </div>
         <div class="mt-5">
           <button class="bg-indigo-500 text-white px-5 py-3 w-full rounded-md font-semibold" type="submit">Login</button>
